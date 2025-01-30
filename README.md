@@ -14,7 +14,7 @@ My main research area is applying **computer vision** techniques to improve **ob
 - **Master’s in Computer Science and Engineering**  
   *University of Oulu, Finland*  
   August 2023 – May 2025  
-  *CGPA*: 4.00/5  
+  *CGPA*: 4.07/5  
 - **B.Sc. in Computer Science and Engineering**  
   *Daffodil International University, Bangladesh*  
   January 2018 – February 2022  
@@ -34,9 +34,9 @@ My main research area is applying **computer vision** techniques to improve **ob
 ---
 
 ## 💼 Experience
-- **Summer Trainee**  
+- **Research Assistant**  
   *University of Oulu, UBICOM (Interactive Edge)*  
-  June 2024 – August 2024  
+  June 2024 – December 2024  
   Worked on **UAV path planning**, **AI/ML on edge devices**, and **model optimization** for Finland's Fireman project.  
   _Supervisor_: Dr. Abhishek Kumar
 
