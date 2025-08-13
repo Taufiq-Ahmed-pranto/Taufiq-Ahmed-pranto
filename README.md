@@ -14,11 +14,11 @@ My main research area is applying **computer vision** techniques to improve **ob
 - **Master’s in Computer Science and Engineering**  
   *University of Oulu, Finland*  
   August 2023 – May 2025  
-  *CGPA*: 4.07/5  
+  *CGPA*: 4.33/5.00
 - **B.Sc. in Computer Science and Engineering**  
   *Daffodil International University, Bangladesh*  
   January 2018 – February 2022  
-  *CGPA*: 3.89/4
+  *CGPA*: 3.89/4.00
 
 ---
 
