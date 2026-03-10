@@ -23,8 +23,6 @@ I am a researcher specializing in **Multimodal Sensor Fusion** and **Digital Twi
 
 ### Academic Background
 * **M.Sc. in Computer Science and Engineering** | University of Oulu, Finland.
-    * **Thesis**: *Long-Tailed Object Detection on UAVs* (Grade: **5.00/5.00**).
-    * **CGPA**: 4.33/5.00.
 * **B.Sc. in Computer Science and Engineering** | Daffodil International University, Bangladesh.
 
 ---
