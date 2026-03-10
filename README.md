@@ -37,6 +37,3 @@ I am a researcher specializing in **Multimodal Sensor Fusion** and **Digital Twi
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taufiq-Ahmed-pranto&layout=compact&theme=radical" alt="Taufiq's Top Langs" />
-</p>
