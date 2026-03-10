@@ -1,64 +1,47 @@
-# Hi, I'm Taufiq Ahmed 👋
-**M.Sc. in Computer Science and Engineering | Specialization in Artificial Intelligence**
+# Taufiq Ahmed | [cite_start]Academic Researcher in Multimodal Perception & Digital Twins [cite: 1, 9, 10]
 
-Welcome to my GitHub! I'm focused on **Computer Vision** and **Object Detection** to enhance real-time performance in large datasets. I have hands-on experience with **AI/ML on edge devices** and love working on applied machine learning and research.
-
----
-
-## 🎯 Research Objective
-My main research area is applying **computer vision** techniques to improve **object detection** and **tracking** within large datasets, with a focus on optimizing real-time performance and analysis accuracy.
+[cite_start]I am a Project Researcher at the **Center for Machine Vision and Signal Analysis (CMVS)**, University of Oulu[cite: 22, 25, 26]. [cite_start]My research focuses on developing robust perception systems for robotics, specializing in **Multimodal Sensor Fusion** and **Digital Twin** technologies[cite: 10, 11]. [cite_start]My work aims to bridge theoretical research in 3D scene understanding with practical, real-time implementation on embedded systems[cite: 12].
 
 ---
 
-## 🎓 Education
-- **Master’s in Computer Science and Engineering**  
-  *University of Oulu, Finland*  
-  August 2023 – May 2025  
-  *CGPA*: 4.33/5.00
-- **B.Sc. in Computer Science and Engineering**  
-  *Daffodil International University, Bangladesh*  
-  January 2018 – February 2022  
-  *CGPA*: 3.89/4.00
+## 🔬 Research Interests
+* [cite_start]**Multimodal Sensor Fusion**: Developing frameworks for Camera-LiDAR and radar integration to achieve robust 3D perception[cite: 4, 11].
+* [cite_start]**Digital Twins**: Modeling virtual environments with real-time synchronization and Simulation-to-Reality (Sim-to-Real) transfer[cite: 5].
+* [cite_start]**Computer Vision**: Specialized in 3D object detection, semantic segmentation, and addressing long-tailed visual recognition challenges[cite: 6].
+* [cite_start]**Robotics & Embedded AI**: Optimizing deep learning models for real-time inference on edge devices (NVIDIA Jetson) and UAV path planning[cite: 7, 8, 34].
 
 ---
 
-## 📝 Publications
-- **Classification of Product Review Sentiment by NLP and Machine Learning**  
-  *IEEE, July 2022*  
-  [Read here](https://ieeexplore.ieee.org/document/9808003)
-
-- **Restaurant Recommendation System in Dhaka City using Machine Learning Approach**  
-  *IEEE, January 2022*  
-  [Read here](https://ieeexplore.ieee.org/document/9676197)
-
----
-
-## 💼 Experience
-- **Research Assistant**  
-  *University of Oulu, UBICOM (Interactive Edge)*  
-  June 2024 – December 2024  
-  Worked on **UAV path planning**, **AI/ML on edge devices**, and **model optimization** for Finland's Fireman project.  
-  _Supervisor_: Dr. Abhishek Kumar
-
-- **Research Assistant**  
-  *Daffodil International University*  
-  January 2021 – May 2022  
-  Assisted in research on **machine learning** and **natural language processing** projects.  
-  _Supervisor_: MD. Abdus Sattar
+## 📚 Selected Publications
+* [cite_start]**Exponentially Weighted Instance-Aware Repeat Factor Sampling for Long-Tailed Object Detection Model Training in Unmanned Aerial Vehicles Surveillance Scenarios** [cite: 43]
+  * [cite_start]*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025* [cite: 44]
+  * [cite_start]Introduced the **E-IRFS** algorithm to improve rare-class detection in aerial imagery[cite: 17, 53].
+* [cite_start]**Classification of Product Review Sentiment by NLP and Machine Learning** [cite: 46]
+  * [cite_start]*ICAECT, IEEE, 2022* [cite: 47]
+* [cite_start]**Restaurant Recommendation System in Dhaka City Using Machine Learning Approach** [cite: 49]
+  * [cite_start]*SMART, IEEE, 2021* [cite: 50]
 
 ---
 
-## 🛠️ Technical Skills
-- **Machine Learning & Deep Learning**: Computer Vision, NLP, Edge AI
-- **Programming Languages**: Python, C++, Java
-- **Data Analysis**: Pandas, Numpy, Matplotlib, SPSS
-- **Database Management**: PostgreSQL
+## 🛠️ Technical Specialization
+* [cite_start]**Perception & Reconstruction**: Camera-LiDAR Fusion, Point Cloud Processing, and 3D Reconstruction[cite: 60].
+* [cite_start]**Robotics Frameworks**: ROS2, Gazebo, and RViz[cite: 63].
+* [cite_start]**Deep Learning & Optimization**: PyTorch, TensorFlow, TensorRT, and Model Quantization[cite: 63].
+* [cite_start]**Programming**: Python (Advanced), C++ (Intermediate), and Linux/Docker environments[cite: 64].
 
 ---
 
-## 📫 Contact
-- **Email**: [taahmed23@student.oulu.fi](mailto:taahmed23@student.oulu.fi)
-- **LinkedIn**: [linkedin.com/in/taufiq-ahmed-pranto](https://www.linkedin.com/in/taufiq-ahmed-pranto/)
-- **GitHub**: [github.com/Taufiq-Ahmed-pranto](https://github.com/Taufiq-Ahmed-pranto)
+## 🎓 Academic Background
+* **M.Sc. in Computer Science and Engineering** | [cite_start]University of Oulu, Finland (2023–2025) [cite: 14, 15]
+  * [cite_start]**CGPA**: 4.33/5.00 [cite: 16]
+  * [cite_start]**Thesis**: *Long-Tailed Object Detection on UAVs* (Grade: 5.00/5.00)[cite: 17].
+* **B.Sc. in Computer Science and Engineering** | [cite_start]Daffodil International University, Bangladesh (2018–2022)[cite: 19, 20, 23].
 
-Thanks for visiting my GitHub profile! Feel free to explore my projects or reach out if you're interested in collaborating on AI and machine learning research.
+---
+
+## 📫 Contact & Identifiers
+* [cite_start]**Email**: [taufiq.ahmed@oulu.fi](mailto:taufiq.ahmed@oulu.fi) [cite: 2]
+* **Profiles**: [LinkedIn](https://www.linkedin.com/in/taufiq-ahmed-pranto) | [Google Scholar](https://scholar.google.com) | [cite_start][GitHub](https://github.com/Taufiq-Ahmed-pranto) [cite: 2]
+* [cite_start]**Location**: Oulu, Finland [cite: 2]
+
+---
