@@ -1,58 +1,55 @@
-# [cite_start]Hi there, I'm Taufiq Ahmed 🚀 [cite: 1]
+# Hi, I'm Taufiq Ahmed 🇫🇮 🇧🇩
 
-<p align="center">
-  [cite_start]<a href="mailto:taufiq.ahmed@oulu.fi"><img src="https://img.shields.io/badge/Email-taufiq.ahmed%40oulu.fi-blue?style=flat-square&logo=gmail"></a> [cite: 2]
-  [cite_start]<a href="https://www.linkedin.com/in/taufiq-ahmed-pranto"><img src="https://img.shields.io/badge/LinkedIn-Taufiq--Ahmed-0077B5?style=flat-square&logo=linkedin"></a> [cite: 2]
-  [cite_start]<a href="#"><img src="https://img.shields.io/badge/Google_Scholar-Taufiq_Ahmed-4285F4?style=flat-square&logo=google-scholar"></a> [cite: 2]
-</p>
+**Project Researcher @ Center for Machine Vision and Signal Analysis (CMVS), University of Oulu**
+
+I am a computer scientist specializing in **Multimodal Sensor Fusion** and **Digital Twin** technologies for autonomous systems. My research focuses on bridging the gap between simulation and reality, specifically improving 3D perception and long-tailed object detection for UAVs and robotic platforms.
 
 ---
 
-### 🎓 About Me
-[cite_start]I am a **Project Researcher** at the **Center for Machine Vision and Signal Analysis (CMVS)**, University of Oulu, Finland[cite: 25, 26]. [cite_start]My work bridges the gap between **Multimodal Sensor Fusion** and **Digital Twin** technologies for advanced robotic systems[cite: 10, 27].
-
-* [cite_start]**Current Focus**: Integrating Camera-LiDAR-Radar modalities for robust 3D scene understanding and real-time environment modeling[cite: 11, 29].
-* [cite_start]**Specialization**: Solving "long-tail" distribution problems in aerial and robotic perception[cite: 12, 17].
-* [cite_start]**Location**: Oulu, Finland 🇫🇮 [cite: 2]
-
----
-
-### 🔬 Research Pillars
-* [cite_start]**Multimodal Perception**: Camera-LiDAR Fusion, Point Cloud Processing, and 3D Reconstruction[cite: 4, 60].
-* [cite_start]**Digital Twins**: Real-time synchronization and Simulation-to-Reality (Sim-to-Real) transfer[cite: 5].
-* [cite_start]**Edge AI**: Optimizing deep learning models (YOLO, Faster R-CNN) for real-time inference on NVIDIA Jetson platforms[cite: 8, 34, 61].
-* [cite_start]**Robotics**: Path planning and sensor integration using ROS2 and Gazebo[cite: 7, 63].
+### 🔬 Research at a Glance
+* **Multimodal Perception**: Developing architectures for **Camera-LiDAR-Radar fusion** and 3D environment reconstruction.
+* **Digital Twins**: Building high-fidelity virtual environments with real-time synchronization for robotic systems.
+* **Long-Tailed Learning**: Addressing class imbalance in aerial datasets using my proposed **E-IRFS** algorithm.
+* **Embedded AI**: Optimizing deep learning models for real-time inference on edge devices like **NVIDIA Jetson**.
 
 ---
 
-### 📚 Featured Publication
-> [cite_start]**Exponentially Weighted Instance-Aware Repeat Factor Sampling for Long-Tailed Object Detection Model Training in UAV Surveillance** [cite: 42, 43]
-> [cite_start]* **Conference**: IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2025**) [cite: 44]
-> [cite_start]* **Core Contribution**: Developed the **E-IRFS** algorithm to significantly boost rare-class detection in aerial imagery while maintaining edge-device performance[cite: 17, 53, 54].
+### 📚 Featured Publications
+* **Exponentially Weighted Instance-Aware Repeat Factor Sampling (E-IRFS) for Long-Tailed Object Detection**
+  * *IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2025**)*.
+  * Proposed a novel adaptive sampling method to enhance rare-class detection in UAV surveillance.
+* **Master’s Thesis: Improving long-tailed object detection on UAV platforms through adaptive sampling**
+  * *University of Oulu, 2025* (Grade: 5.00/5.00).
+* **Classification of Product Review Sentiment by NLP and Machine Learning**
+  * *IEEE ICAECT, 2022*.
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Technical Specialization
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Robotics & Vision** | ROS2, Gazebo, RViz, Open3D, Point Cloud Processing |
+| **Deep Learning** | PyTorch, TensorFlow, TensorRT, Model Quantization |
+| **Programming** | Python (Advanced), C++ (Intermediate), Linux, Docker |
+| **Data & Cloud** | PostgreSQL, AWS (Basics), Git |
+
+---
+
+### 🎓 Education
+* **M.Sc. in Computer Science and Engineering** | **University of Oulu**, Finland (CGPA: 4.33/5.00).
+* **B.Sc. in Computer Science and Engineering** | **Daffodil International University**, Bangladesh.
+
+---
+
+### 📫 Connect with Me
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> [cite: 64]
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> [cite: 63]
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> [cite: 64]
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"> [cite: 63]
-  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> [cite: 34, 63]
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> [cite: 64]
+<a href="mailto:taufiq.ahmed@oulu.fi"><img src="https://img.shields.io/badge/Email-taufiq.ahmed%40oulu.fi-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/taufiq-ahmed-pranto"><img src="https://img.shields.io/badge/LinkedIn-Taufiq--Ahmed-0077B5?style=flat-square&logo=linkedin"></a>
+<a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google_Scholar-Taufiq_Ahmed-4285F4?style=flat-square&logo=google-scholar"></a>
 </p>
 
 ---
 
-### 📈 Academic Background
-* **M.Sc. in Computer Science and Engineering** | [cite_start]University of Oulu, Finland [cite: 14, 15]
-    * [cite_start]*CGPA*: 4.33/5.00 [cite: 16]
-    * [cite_start]*Thesis*: Long-Tailed Object Detection on UAVs (Grade: 5.00/5.00) [cite: 17]
-* **B.Sc. in Computer Science and Engineering** | [cite_start]Daffodil International University, Bangladesh [cite: 19, 20]
-    * [cite_start]*CGPA*: 3.89/4.00 [cite: 24]
-
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taufiq-Ahmed-pranto&show_icons=true&theme=radical" alt="Taufiq's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Taufiq-Ahmed-pranto&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
